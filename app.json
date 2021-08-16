@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SimpleToDo",
+    "slug": "SimpleToDo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SimpleToDo"
+}
